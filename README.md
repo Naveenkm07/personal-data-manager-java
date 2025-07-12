@@ -244,7 +244,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/Naveenkm07/personal-data-manager-java/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Naveenkm07/personal-data-manager-java/discussions)
-- **Email**: [Your Email]
+- **Email**: [kmnaveenkm01@gmail.com](mailto:kmnaveenkm01@gmail.com)
 
 ## 🔄 Version History
 
